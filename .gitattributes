@@ -1,0 +1,14 @@
+# Default behavior
+# This file is used to override language statistics
+# Configuration for git attributes
+*.ico binary
+*.yml linguist-detectable=false
+*.rs linguist-detectable
+*.htm linguist-vendored
+*.sh text eol=lf
+*.yaml linguist-detectable=false
+
+yarn.lock linguist-generated
+
+*.png binary
+# eof 54707ba6
